@@ -1,0 +1,224 @@
+- name: MTet: Multi-domain Translation for English and Vietnamese
+  url: https://arxiv.org/abs/2210.05610
+  code: https://translate.vietai.org/
+  description: <i>in reviewing EACL</i>, 2023
+  authors: Chinh Ngo*, Trieu H Trinh*, Long Phan*, <b>Hieu Tran*</b>, Tai Dang, Hieu Nguyen, Minh Nguyen, Minh-Thang Luong
+
+- name: Enriching Biomedical Knowledge for Low-resource Language Through Translation
+  url: https://arxiv.org/abs/2210.05598
+  code: https://arxiv.org/abs/2210.05598
+  description: <i>in reviewing EACL</i>, 2023
+  authors: Long Phan*, Tai Dang*, <b>Hieu Tran*</b>, Vy Phan, Lam D Chau, Trieu H Trinh
+
+- name: BLOOM: A 176B-Parameter Open-Access Multilingual Language Model
+  url: https://arxiv.org/abs/2211.05100
+  code: https://github.com/bigscience-workshop/bigscience
+  description: <i>arXiv preprint arXiv:2211.05100</i>, 2022
+  authors: Teven Le Scao, Angela Fan, Christopher Akiki, Ellie Pavlick, and 386 others including <b>Hieu Tran</b>
+
+- name: The BigScience ROOTS Corpus: A 1.6 TB Composite Multilingual Dataset
+  url: https://arxiv.org/abs/2211.05100
+  code: https://github.com/bigscience-workshop/bigscience
+  description: <i>NeurIPS</i>, 2022
+  authors: Hugo Laurençon, Lucile Saulnier, Thomas Wang, Christopher Akiki, and 50 others including <b>Hieu Tran</b>
+
+- name: ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation
+  url: https://aclanthology.org/2022.naacl-srw.18/
+  code: https://research.vietai.org/vit5/
+  description: <i>NAACL SRW</i>, 2022
+  authors: Long Phan, <b>Hieu Tran</b>, Hieu Nguyen, and Trieu H. Trinh
+
+- name: SciFive: a text-to-text transformer model for biomedical literature
+  url: https://arxiv.org/abs/2106.03598
+  code: https://github.com/justinphan3110/SciFive
+  description: <i>arXiv preprint arXiv:2106.03598</i>, 2021
+  authors: Long N Phan, James T Anibal, <b>Hieu Tran</b>, Shaurya Chanana, Erol Bahadroglu, Alec Peltekian, Grégoire Altan-Bonnet
+
+- name: CoTexT: Multi-task Learning with Code-Text Transformer
+  url: https://aclanthology.org/2021.nlp4prog-1.5/
+  code: https://github.com/justinphan3110/CoTexT
+  description: <i>NLP4Prog @ ACL</i>, 2021
+  authors: Long Phan, <b>Hieu Tran</b>, Daniel Le, Hieu Nguyen, James Anibal, Alec Peltekian, Yanfang Ye
+
+- name: SPBERT: an Efficient Pre-training BERT on SPARQL Queries for Question Answering over Knowledge Graphs
+  url: https://link.springer.com/chapter/10.1007/978-3-030-92185-9_42
+  code: https://github.com/heraclex12/NLP2SPARQL
+  description: <i>ICONIP</i>, 2021
+  authors: <b>Hieu Tran</b>, Long Phan, James Anibal, Binh T. Nguyen, Truong-Son Nguyen
+
+- name: VieSum: How Robust Are Transformer-based Models on Vietnamese Summarization?
+  url: https://arxiv.org/abs/2110.04257
+  code: https://arxiv.org/abs/2110.04257
+  description: <i>arXiv preprint arXiv:2110.04257</i>, 2021
+  authors: Hieu Nguyen, Long Phan, James Anibal, Alec Peltekian, <b>Hieu Tran</b>
+
+- name: Hierarchical transformer encoders for vietnamese spelling correction
+  url: https://link.springer.com/chapter/10.1007/978-3-030-79457-6_46
+  code: https://link.springer.com/chapter/10.1007/978-3-030-79457-6_46
+  description: <i>IEA/AIE</i>, 2021
+  authors: <b>Hieu Tran</b>, Cuong V Dinh, Long Phan, Son T Nguyen
+
+- name: An Efficient Transformer-Based Model for Vietnamese Punctuation Prediction
+  url: https://link.springer.com/chapter/10.1007/978-3-030-79463-7_5
+  code: https://github.com/heraclex12/vietpunc
+  description: <i>IEA/AIE</i>, 2021
+  authors: <b>Hieu Tran</b>, Cuong V Dinh, Quang Pham, Binh T. Nguyen
+
+- name: Leveraging Transfer Learning for Reliable Intelligence Identification on Vietnamese SNSs (ReINTEL)
+  url: https://arxiv.org/abs/2012.07557
+  code: https://github.com/heraclex12/VLSP2020-Fake-News-Detection
+  description: <i>arXiv preprint arXiv:2012.07557</i>, 2020
+  authors: <b>Trung-Hieu Tran</b>, Long Phan, Truong-Son Nguyen, Tien-Huy Nguyen
+
+
+# - name: Halcyon Theme
+#   url: https://bchiang7.github.io/halcyon-site/
+#   code: https://github.com/bchiang7/halcyon-site
+#   description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+#   used:
+#     - thing: Gatsby
+#     - thing: Sublime Text
+#     - thing: Atom
+#     - thing: VS Code
+#     - thing: iTerm2
+#     - thing: Hyper
+
+# - name: Lonely Planet DBMS
+#   url: https://github.com/bchiang7/CS3200-Project
+#   code: https://github.com/bchiang7/CS3200-Project
+#   description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+#   used:
+#     - thing: Python
+#     - thing: MySQL
+#     - thing: Flask
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: JavaScript
+
+# - name: myNEU Redesign
+#   url: https://bchiang7.github.io/Redesign-myNEU/
+#   code: https://github.com/bchiang7/Redesign-myNEU
+#   description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
+#   used:
+#     - thing: Jekyll
+#     - thing: HTML
+#     - thing: SCSS
+#     - thing: JavaScript
+
+# - name: Crowd DJ
+#   url: https://github.com/crowddj/crowddj-react
+#   code: https://github.com/crowddj/crowddj-react
+#   description:
+#     A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
+#     <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
+#   used:
+#     - thing: React
+#     - thing: Sass
+#     - thing: Firebase
+#     - thing: Spotify API
+
+# - name: Weather Widget
+#   url: http://quiet-dusk-89245.herokuapp.com/
+#   code: https://github.com/bchiang7/DemoWebApp
+#   description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
+#   img: weather
+#   used:
+#     - thing: JavaScript
+#     - thing: CSS
+#     - thing: Node.js
+#     - thing: Express
+#     - thing: Heroku
+#     - thing: OpenWeatherMap API
+#     - thing: Google Maps API
+
+# # - name: ScreenTime 2.0
+# #   url: https://play.google.com/store/apps/details?id=com.starry.management
+# #   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
+# #   used:
+# #   - thing: JavaScript
+# #   - thing: CSS
+# #   - thing: Handlebars
+# #   - thing: Backbone
+# #   - thing: Marionette
+# #   - thing: Cordova
+
+# - name: Personal Website V2
+#   url: https://bchiang7.github.io/v2
+#   code: https://github.com/bchiang7/v2
+#   description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
+#   used:
+#     - thing: Jekyll
+#     - thing: Handlebars
+#     - thing: SCSS
+#     - thing: JavaScript
+#     - thing: Github Pages
+
+# - name: React Resume
+#   url: https://bchiang7.github.io/react-profile/
+#   code: https://github.com/bchiang7/react-profile/
+#   description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
+#   used:
+#     - thing: JavaScript
+#     - thing: React
+#     - thing: CSS
+
+# - name: CourseSource
+#   url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
+#   code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
+#   description: A web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development course at Northeastern. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern.
+#   used:
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: JavaScript
+#     - thing: Node.js
+#     - thing: Angular
+#     - thing: Express
+#     - thing: MongoDB
+
+# - name: NU Women in Tech
+#   url: http://nuwit.ccs.neu.edu/
+#   code: https://github.com/nuwit/website
+#   description: Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+#   used:
+#     - thing: Jekyll
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: JavaScript
+#     - thing: Bootstrap
+
+# - name: Fontipsums
+#   url: https://bchiang7.github.io/fontipsums
+#   code: https://github.com/bchiang7/fontipsums
+#   description: As someone who has an eye for typography, I wanted a way to visually see different font combinations together. I whipped up this simple website to display some of my favorite pairings combined with some fun lorem ipsum variations I found on the web.
+#   used:
+#     - thing: HTML
+#     - thing: SCSS
+
+# - name: Personal Website V1
+#   url: https://bchiang7.github.io/v1
+#   code: https://github.com/bchiang7/website_2015/
+#   description: My first portfolio website I designed and built in 2014. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.
+#   used:
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: Bootstrap
+#     - thing: JavaScript
+#     - thing: jQuery
+
+# - name: One Card For All
+#   url: http://onecardforall.org
+#   description: MullenLowe's 2016 holiday site built around an algorithm that generates a holiday greeting to each and every person on the planet. As new names appear, visitors can watch them fall, like snowflakes, onto a stylized world map. Users can also find their own name and see it as part of the world collective. Check out this short <a class="underline-link" href="http://us.mullenlowe.com/work/one-card-for-all/" target="_blank">video</a> describing the project.
+#   used:
+#     - thing: HTML
+#     - thing: SCSS
+#     - thing: JavaScript
+#     - thing: jQuery
+
+# - name: JetBlue HumanKinda
+#   url: https://us.mullenlowe.com/work/humankinda/
+#   description: Tumblr site complementing JetBlue's HumanKinda campaign and documentary. The site houses the video documentary, many graphics created by Mullen for the campaign, and an interactive quiz to determine how "HumanKinda" you are. Learn more about this project <a class="underline-link" href="http://us.mullenlowe.com/work/humankinda/" target="_blank">here</a>.
+#   used:
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: JavaScript
+#     - thing: jQuery
