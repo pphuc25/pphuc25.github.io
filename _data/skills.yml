@@ -9,7 +9,7 @@ libraries:
   - item: Flax/Jax
   - item: Tensorflow
   - item: Transformers
-  - item: 
+  - item: scikit-learn
 
 tools:
   - item: Google Cloud Platform
@@ -19,10 +19,7 @@ tools:
   - item: Kubernetes
   - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+others:
+  - item: Machine Learning
+  - item: Natural Language Processing
+  - item: Research
