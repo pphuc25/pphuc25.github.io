@@ -20,7 +20,7 @@
         {% if link.title != "email" %}
           <a href="{{link.url}}" target="_blank" title="{{link.title}}">
             <!-- <span class="text">{{link.title}}</span> -->
-            <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}">
+            <img src="{{site.baseurl}}/img/social/{{link.title}}.svg" alt="{{link.title}}" style="display: inline-block !important;">
           </a>
         {% endif %}
       {% endfor %}
