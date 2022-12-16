@@ -1,17 +1,19 @@
-- name: "MTet: Multi-domain Translation for English and Vietnamese"
+- name: "Challenges and Opportunities When Working In AI Industry | 2022"
+  url: #
+  description: Gave a talk at <a class="underline-link" href="https://en.vanlanguni.edu.vn/" target="_blank">Van Lang University</a>
+
+- name: "MTet: Multi-domain Translation for English and Vietnamese | 2022"
   url: https://translate.vietai.org/
   description: Gave a talk at <a class="underline-link" href="https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-google-io-extended-hanoi-2022/" target="_blank">Google I/O Extended Hanoi 2022</a>
-
-- name: How MoMo Builds an AI Chatbot
-  url: https://medium.com/momo-technology-blog/how-we-build-a-conversational-ai-chatbot-at-momo-26252195a31
-  description: Blog at <a class="underline-link" href="https://medium.com/@bigdatamomo">MoMo Technology (Medium)</a>
-
-
-- name: Outstanding Undergraduate Thesis Award
-  url: #
-  description: Undergraduate Thesis, HCMC University of Science
 
 - name: BigScience Research Contributor
   url: https://bigscience.huggingface.co/
   description: A one-year long research workshop on large multilingual models and datasets mainly leading by HuggingFace
 
+- name: How MoMo Builds an AI Chatbot
+  url: https://medium.com/momo-technology-blog/how-we-build-a-conversational-ai-chatbot-at-momo-26252195a31
+  description: Blog at <a class="underline-link" href="https://medium.com/@bigdatamomo">MoMo Technology (Medium)</a>
+
+- name: Outstanding Undergraduate Thesis Award
+  url: #
+  description: Undergraduate Thesis, HCMC University of Science
