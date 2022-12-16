@@ -1,10 +1,10 @@
 {
   "name": "brittanychiang.com",
-  "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "version": "0.0.1",
+  "description": "NLP enthusiast focused on language representation learning and machine translation",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "https://github.com/heraclex12/heraclex12.github.io"
   },
   "homepage": "https://github.com/bchiang7/bchiang7.github.io",
   "main": "gulpfile.js",
