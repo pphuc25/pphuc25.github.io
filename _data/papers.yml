@@ -1,4 +1,4 @@
-- name: <span class="emoji sakura"></span> "MTet: Multi-domain Translation for English and Vietnamese"
+- name: '<span class="emoji sakura"></span> MTet: Multi-domain Translation for English and Vietnamese'
   url: https://arxiv.org/abs/2210.05610
   description: <i>in reviewing EACL</i>, 2023
   authors: Chinh Ngo*, Trieu H Trinh*, Long Phan*, <b>Hieu Tran*</b>, Tai Dang, Hieu Nguyen, Minh Nguyen, Minh-Thang Luong
@@ -11,14 +11,14 @@
   description: <i>in reviewing EACL</i>, 2023
   authors: Long Phan*, Tai Dang*, <b>Hieu Tran*</b>, Vy Phan, Lam D Chau, Trieu H Trinh
 
-- name: <span class="emoji huggingface"></span> "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model"
+- name: '<span class="emoji huggingface"></span> BLOOM: A 176B-Parameter Open-Access Multilingual Language Model'
   url: https://arxiv.org/abs/2211.05100
   description: <i>arXiv preprint arXiv:2211.05100</i>, 2022
   authors: Teven Le Scao, Angela Fan, Christopher Akiki, Ellie Pavlick, and 386 others including <b>Hieu Tran</b>
   used:
     - thing: <a class="underline-link" href="https://github.com/bigscience-workshop/bigscience" target="_blank">CODE</a>
 
-- name: <span class="emoji huggingface"></span> "The BigScience ROOTS Corpus: A 1.6 TB Composite Multilingual Dataset"
+- name: '<span class="emoji huggingface"></span> The BigScience ROOTS Corpus: A 1.6 TB Composite Multilingual Dataset'
   url: https://arxiv.org/abs/2211.05100
   description: <i>NeurIPS</i>, 2022
   authors: Hugo Laurençon, Lucile Saulnier, Thomas Wang, Christopher Akiki, and 50 others including <b>Hieu Tran</b>
