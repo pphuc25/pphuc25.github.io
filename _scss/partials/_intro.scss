@@ -101,6 +101,16 @@
     }
   }
   &__links {
+    padding: 50px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    @include desktop {
+      padding: 50px;
+    }
+    @include mobile {
+      padding: 50px 30px;
+    }
     @include weird-medium {
       display: flex;
       justify-content: center;
