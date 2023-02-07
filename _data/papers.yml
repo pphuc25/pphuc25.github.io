@@ -1,6 +1,6 @@
 - name: '🌸 MTet: Multi-domain Translation for English and Vietnamese'
   url: https://arxiv.org/abs/2210.05610
-  description: <i>in reviewing EACL</i>, 2023
+  description: <i>arXiv preprint:2210:05610</i>, 2022
   authors: Chinh Ngo*, Trieu H Trinh*, Long Phan*, <b>Hieu Tran*</b>, Tai Dang, Hieu Nguyen, Minh Nguyen, Minh-Thang Luong
   used:
     - thing: <a class="underline-link" href="https://translate.vietai.org/" target="_blank">BLOG</a>
@@ -8,7 +8,7 @@
 
 - name: Enriching Biomedical Knowledge for Low-resource Language Through Translation
   url: https://arxiv.org/abs/2210.05598
-  description: <i>in reviewing EACL</i>, 2023
+  description: <i>EACL</i>, 2023
   authors: Long Phan*, Tai Dang*, <b>Hieu Tran*</b>, Vy Phan, Lam D Chau, Trieu H Trinh
 
 - name: '🤗 BLOOM: A 176B-Parameter Open-Access Multilingual Language Model'
@@ -48,7 +48,7 @@
 
 - name: "SPBERT: an Efficient Pre-training BERT on SPARQL Queries for Question Answering over Knowledge Graphs"
   url: https://link.springer.com/chapter/10.1007/978-3-030-92185-9_42
-  description: <i>ICONIP</i>, 2021
+  description: <i>ICONIP</i>, 2021 (Acceptance rate ~20%)
   authors: <b>Hieu Tran</b>, Long Phan, James Anibal, Binh T. Nguyen, Truong-Son Nguyen
   used:
     - thing: <a class="underline-link" href="https://github.com/heraclex12/NLP2SPARQL" target="_blank">CODE</a>
