@@ -1,3 +1,11 @@
+- name: Enriching Biomedical Knowledge for Low-resource Language Through Translation
+  url: https://arxiv.org/abs/2210.05598
+  description: <i>EACL</i>, 2023
+  authors: Long Phan*, Tai Dang*, <b>Hieu Tran*</b>, Trieu H. Trinh*, Vy Phan, Lam D. Chau, Minh-Thang Luong
+  used:
+    - thing: <a class="underline-link" href="https://research.vietai.org/vipubmed/" target="_blank">BLOG</a>
+    - thing: <a class="underline-link" href="https://github.com/vietai/ViPubmed" target="_blank">CODE</a>
+
 - name: '🌸 MTet: Multi-domain Translation for English and Vietnamese'
   url: https://arxiv.org/abs/2210.05610
   description: <i>arXiv preprint:2210:05610</i>, 2022
@@ -5,11 +13,6 @@
   used:
     - thing: <a class="underline-link" href="https://translate.vietai.org/" target="_blank">BLOG</a>
     - thing: <a class="underline-link" href="https://github.com/vietai/mTet" target="_blank">CODE</a>
-
-- name: Enriching Biomedical Knowledge for Low-resource Language Through Translation
-  url: https://arxiv.org/abs/2210.05598
-  description: <i>EACL</i>, 2023
-  authors: Long Phan*, Tai Dang*, <b>Hieu Tran*</b>, Vy Phan, Lam D Chau, Trieu H Trinh
 
 - name: '🤗 BLOOM: A 176B-Parameter Open-Access Multilingual Language Model'
   url: https://arxiv.org/abs/2211.05100
