@@ -1,5 +1,5 @@
 - name: Enriching Biomedical Knowledge for Low-resource Language Through Translation
-  url: https://arxiv.org/abs/2210.05598
+  url: https://aclanthology.org/2023.eacl-main.228/
   description: <i>EACL</i>, 2023
   authors: Long Phan*, Tai Dang*, <b>Hieu Tran*</b>, Trieu H. Trinh*, Vy Phan, Lam D. Chau, Minh-Thang Luong
   used:
