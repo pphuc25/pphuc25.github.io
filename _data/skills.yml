@@ -1,14 +1,14 @@
 languages:
   - item: Python
-  - item: Java
+  - item: Kotlin
   - item: SQL
   - item: SPARQL
 
 libraries:
   - item: Pytorch
   - item: Flax/Jax
-  - item: Tensorflow
   - item: Transformers
+  - item: PEFT
   - item: scikit-learn
 
 tools:
@@ -22,4 +22,5 @@ tools:
 others:
   - item: Machine Learning
   - item: Natural Language Processing
+  - item: Generative AI
   - item: Research
