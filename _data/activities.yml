@@ -1,35 +1,44 @@
-- name: "Unlocking the potential of GenAI for coding | 2023"
+
+- name: "Advance in Natural Language Processing | 2023"
+  url: https://www.facebook.com/photo/?fbid=713128324182886&set=a.546887180807002/
+  description: Teaching Assistant at <a class="underline-link" href="https://nlp.vietai.org/" target="_blank">VietAI Advanced Class in Natural Language Processing</a>
+
+- name: "Foundation of Deep Learning | 2023"
   url: https://gdg.community.dev/events/details/google-gdg-ho-chi-minh-city-presents-gdg-devfest-2023-in-ho-chi-minh-city/
-  description: Gave a talk at <a class="underline-link" href="https://gdg.community.dev/gdg-ho-chi-minh-city/" target="_blank">Google Devfest HCM 2023</a>
+  description: Teaching Assistant at <a class="underline-link" href="https://nlp.vietai.org/" target="_blank">VietAI Foundation of Deep Learning</a>
 
-- name: "Explore the Power of AI - Career Trends in This Industry | 2023"
-  url: https://www.bkacad.edu.vn/workshop-:-kham-pha-suc-manh-tri-tue-nhan-tao---xu-huong-nghe-nghiep-nganh-ai-n1660.html
-  description: Gave a talk at <a class="underline-link" href="https://bkacad.edu.vn/" target="_blank">BKACAD and USAID Wise Online Event</a>
+- name: "Developer Students Community | 2022-2023"
+  url: https://www.facebook.com/fptudsc/
+  description: Leader branch AI at <a class="underline-link" href="https://www.facebook.com/fptudsc/" target="_blank">DSC Club</a>
 
-- name: "Shaping Your NLP Career Path in 2024 | 2023"
-  url: #
-  description: Gave a talk at <a class="underline-link" href="https://vietai.org/" target="_blank">VietAI</a>
+# - name: "Explore the Power of AI - Career Trends in This Industry | 2023"
+#   url: https://www.bkacad.edu.vn/workshop-:-kham-pha-suc-manh-tri-tue-nhan-tao---xu-huong-nghe-nghiep-nganh-ai-n1660.html
+#   description: Gave a talk at <a class="underline-link" href="https://bkacad.edu.vn/" target="_blank">BKACAD and USAID Wise Online Event</a>
 
-- name: "Advanced Class in NLP | 2023"
-  url: #
-  description: Lecturer at <a class="underline-link" href="https://nlp.vietai.org/" target="_blank">VietAI Advanced Class in NLP</a>
+# - name: "Shaping Your NLP Career Path in 2024 | 2023"
+#   url: #
+#   description: Gave a talk at <a class="underline-link" href="https://vietai.org/" target="_blank">VietAI</a>
 
-- name: "Challenges and Opportunities When Working In AI Industry | 2022"
-  url: #
-  description: Gave a talk at <a class="underline-link" href="https://en.vanlanguni.edu.vn/" target="_blank">Van Lang University</a>
+# - name: "Advanced Class in NLP | 2023"
+#   url: #
+#   description: Lecturer at <a class="underline-link" href="https://nlp.vietai.org/" target="_blank">VietAI Advanced Class in NLP</a>
 
-- name: "MTet: Multi-domain Translation for English and Vietnamese | 2022"
-  url: https://translate.vietai.org/
-  description: Gave a talk at <a class="underline-link" href="https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-google-io-extended-hanoi-2022/" target="_blank">Google I/O Extended Hanoi 2022</a>
+# - name: "Challenges and Opportunities When Working In AI Industry | 2022"
+#   url: #
+#   description: Gave a talk at <a class="underline-link" href="https://en.vanlanguni.edu.vn/" target="_blank">Van Lang University</a>
 
-- name: BigScience Research Contributor
-  url: https://bigscience.huggingface.co/
-  description: A one-year long research workshop on large multilingual models and datasets mainly leading by HuggingFace
+# - name: "MTet: Multi-domain Translation for English and Vietnamese | 2022"
+#   url: https://translate.vietai.org/
+#   description: Gave a talk at <a class="underline-link" href="https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-google-io-extended-hanoi-2022/" target="_blank">Google I/O Extended Hanoi 2022</a>
 
-- name: How MoMo Builds an AI Chatbot
-  url: https://medium.com/momo-technology-blog/how-we-build-a-conversational-ai-chatbot-at-momo-26252195a31
-  description: Blog at <a class="underline-link" href="https://medium.com/@bigdatamomo">MoMo Technology (Medium)</a>
+# - name: BigScience Research Contributor
+#   url: https://bigscience.huggingface.co/
+#   description: A one-year long research workshop on large multilingual models and datasets mainly leading by HuggingFace
 
-- name: Outstanding Undergraduate Thesis Award
-  url: #
-  description: Undergraduate Thesis, HCMC University of Science
+# - name: How MoMo Builds an AI Chatbot
+#   url: https://medium.com/momo-technology-blog/how-we-build-a-conversational-ai-chatbot-at-momo-26252195a31
+#   description: Blog at <a class="underline-link" href="https://medium.com/@bigdatamomo">MoMo Technology (Medium)</a>
+
+# - name: Outstanding Undergraduate Thesis Award
+#   url: #
+#   description: Undergraduate Thesis, HCMC University of Science
