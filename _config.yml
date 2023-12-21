@@ -5,18 +5,18 @@ description: NLP enthusiast focused on large language models and code generation
 url: https://pphuc25.github.io/
 baseurl: ''
 email: phanphuc1100@gmail.com
-cover: https://phanphuc1100.github.io/img/og.png
-logo: https://phanphuc1100.github.io/img/emojis/technologist.png
-resume: https://phanphuc1100.github.io/PhanVanPhuc-resume.pdf
+cover: https://pphuc25.github.io/img/og.png
+logo: https://pphuc25.github.io/img/emojis/technologist.png
+resume: https://pphuc25.github.io/PhanVanPhuc-resume.pdf
 social:
   - title: email
     url: mailto:phanphuc1100@gmail.com
   # - title: scholar
     # url: https://scholar.google.com/citations?hl=en&user=atONCyEAAAAJ
   - title: github
-    url: https://github.com/pphuc25
+    url: https://github.com/pphuc
   - title: linkedin
-    url: https://www.linkedin.com/in/pphuc25
+    url: https://www.linkedin.com/in/pphuc
 
 # Build settings
 markdown: kramdown

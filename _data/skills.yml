@@ -1,8 +1,5 @@
 languages:
   - item: Python
-  - item: Kotlin
-  - item: SQL
-  - item: SPARQL
 
 libraries:
   - item: Pytorch
