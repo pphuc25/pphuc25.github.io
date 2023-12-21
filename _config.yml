@@ -1,22 +1,22 @@
 # Site settings
-name: Hieu Tran
-title: Hieu Tran | NLP Enthusiast
+name: Phuc Phan
+title: Phuc Phan | NLP Enthusiast
 description: NLP enthusiast focused on large language models and code generation.
-url: https://heraclex12.github.io/
+url: https://pphuc25.github.io/
 baseurl: ''
-email: heraclex12@gmail.com
-cover: https://heraclex12.github.io/img/og.png
-logo: https://heraclex12.github.io/img/emojis/technologist.png
-resume: https://heraclex12.github.io/Hieu_resume.pdf
+email: phanphuc1100@gmail.com
+cover: https://phanphuc1100.github.io/img/og.png
+logo: https://phanphuc1100.github.io/img/emojis/technologist.png
+resume: https://phanphuc1100.github.io/PhanVanPhuc-resume.pdf
 social:
   - title: email
-    url: mailto:heraclex12@gmail.com
-  - title: scholar
-    url: https://scholar.google.com/citations?hl=en&user=atONCyEAAAAJ
+    url: mailto:phanphuc1100@gmail.com
+  # - title: scholar
+    # url: https://scholar.google.com/citations?hl=en&user=atONCyEAAAAJ
   - title: github
-    url: https://github.com/heraclex12
+    url: https://github.com/pphuc25
   - title: linkedin
-    url: https://www.linkedin.com/in/hieutt0
+    url: https://www.linkedin.com/in/pphuc25
 
 # Build settings
 markdown: kramdown
